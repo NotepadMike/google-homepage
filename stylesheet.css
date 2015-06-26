@@ -1,0 +1,30 @@
+
+div {
+	margin: 0px auto;
+}
+
+#logo {
+	width: 269;
+	height: 95;
+	display: block;
+	margin: 0 auto;
+	padding-top: 112px;
+}
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	float: right;
+}
+li {
+		display: inline;
+}
+li img {
+	height: 16px;
+	width: 16px;
+}
+div div form {
+	display: block;
+	width: 100%;
+	margin-left: 40%;
+}
